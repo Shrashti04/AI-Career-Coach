@@ -1,4 +1,4 @@
-# AI Career Coach
+# AI Career Coach Platform
 
 ## 🚀 Overview
 An AI-powered career coach that helps users enhance their professional journey with features like AI-driven resume building, mock interview preparation, salary insights, and intelligent cover letter generation. The platform is designed with a **modern, responsive UI** and leverages **LLM technology** to provide tailored career guidance.
@@ -88,6 +88,3 @@ An AI-powered career coach that helps users enhance their professional journey w
    npm run build
    ```
 2. Deploy using **Vercel/AWS** (update deployment instructions based on your platform).
-
-## 🤝 Contributing
-Contributions are welcome! Feel free to open issues or submit PRs.
